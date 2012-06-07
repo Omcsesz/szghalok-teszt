@@ -42,7 +42,7 @@ Tartalom: `<original kérdés> \n <corrected kérdés> \n <referencia, például
 
 #####Példa
 
-Cím: `'BUG:' teszt1.js:1`  
+Cím: `BUG: tesztfile.js:1`  
 Tartalom: 
 
 <pre><code>{ kerdes: "Hogyan kell hibát bejelenteni?",
