@@ -11,6 +11,7 @@ Ez egy kezdetleges próbálkozás arra, hogy a tesztet jobban lehessen javítani
 - [Indítás](#2)
 - [Hibák javítása](#3)
 - [Új kérdés hozzáadása](#4)
+- [Pull Request](#5)
 
 ---
 
@@ -78,4 +79,9 @@ Fontos hogy ha több kérdést szeretnél hozzáadni, akkor csak egy Issue-t nyi
 Cím: `'NEW:' <path>/<filename>.<fileextension>`  
 Tartalom: `(<new kérdés> \n <referencia, például előadás dia linkje, oldalszáma> [\n --- \n])+`
 
+---
+
+####<a href="" name="5" id="5" />Pull Request
+
+Ha valaki tudja hogyan kell pull-requestet csinálni, akkor nyugodtan csinálhat, és én szívesen mergelem. Egyenlőre lusta vagyok hozzá leírást készíteni.
 
