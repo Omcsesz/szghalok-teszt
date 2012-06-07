@@ -1,0 +1,41 @@
+#TPContainer {text-align:center}
+#TPContainer input{padding-left:8px; padding-right:8px}
+#TPContainer div{text-align:center; padding:5px}
+#TPContainer #feladatok{padding:0}
+#TPContainer #eredmenySor{width:610px; margin:0 auto; text-align:right; padding:0}
+#TPContainer #eredmeny{font:bold 12px arial; float:left}
+#TPContainer .feladat{margin:10px auto; width:600px; display:none; border:solid 1px}
+
+#TPContainer .nemValaszolt{border-color:#ff1dd7; background:#fff4fd}
+#TPContainer .nemValaszolt #ikon{background-image:url(kerdes_blondy.png)}
+
+#TPContainer .joValasz{border-color:#ff1dd7; background:#ffb6f2}
+#TPContainer .joValasz #ikon{background-image:url(ok_blondy.png)}
+
+#TPContainer .rosszValasz{border-color:#ff1dd7; background:#dd9dc7}
+#TPContainer .rosszValasz #ikon{background-image:url(hibas_blondy.png)}
+
+#TPContainer #ikon{height:45px; width:570px; margin:10px; background:no-repeat 100% 50%; clear:left}
+#TPContainer #valaszok{}
+#TPContainer .gombSpan{float:left; padding:4px}
+#TPContainer .valaszDiv{text-align:left; float:left }
+#TPContainer .valaszDiv span{}
+#TPContainer .valaszDiv .szoveg{margin-left:5px; display:block; width:550px; float:right}
+#TPContainer .joValaszResz{background:#ff1dd7}
+#TPContainer .rosszValaszResz{background:#fff4fd}
+#TPContainer .valaszGomb{margin:auto; width:13px; height:13px; padding:0; margin:0; }
+#TPContainer .valaszMegjegyzes{display:none; text-align:left; margin-left:10px }
+
+#TPContainer a{text-decoration:none}
+#TPContainer a:hover{text-decoration:underline}
+
+.TPmenu {font-family:Arial, Helvetica, sans-serif; font-size:12px; position:absolute}
+.TPmenu ul, .TPmenu li {margin:0; padding:0; list-style:none}
+
+.TPmenu_head {border:1px solid #998675; cursor:pointer; display:block; width:184px; height:32px; background:url(tesztek_menuhdr.png) }
+
+.TPmenu_body {display:none; width:184px;border-right:1px solid #998675;border-bottom:1px solid #998675;border-left:1px solid #998675}
+.TPmenu_body li {background:#493e3b}
+.TPmenu_body li.alt {background:#362f2d}
+.TPmenu_body li a, .TPmenu_body li a:visited, .TPmenu_body li a:hover, .TPmenu_body li a:active {color:white; text-decoration:none; background:transparent; padding:10px; display:block}
+.TPmenu_body li a:hover {padding:15px 10px; font-weight:bold}
