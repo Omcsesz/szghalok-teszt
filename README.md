@@ -2,8 +2,8 @@
 
 Az online teszthez kattints [ide](http://bmejegyzet.github.com/szghalok-teszt)
 
-Ez a projekt a BME VIK Számítógép hálózatok tantárgyához készült tesztprogramjának projektoldala.
-Ez egy kezdetleges próbálkozás arra, hogy a tesztprogramokat jobban lehessen javítani.
+Ez a projekt a BME VIK Számítógép hálózatok tantárgyához készült tesztprogram.
+Ez egy kezdetleges próbálkozás arra, hogy a tesztet jobban lehessen javítani.
 
 ###Tartalomjegyzék
 
