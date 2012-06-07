@@ -12,6 +12,7 @@ Ez egy kezdetleges próbálkozás arra, hogy a tesztet jobban lehessen javítani
 - [Hibák javítása](#3)
 - [Új kérdés hozzáadása](#4)
 - [Pull Request](#5)
+- [Kapcsolat](#6)
 
 ---
 
@@ -84,4 +85,8 @@ Tartalom: `(<new kérdés> \n <referencia, például előadás dia linkje, oldal
 ####<a href="" name="5" id="5" />Pull Request
 
 Ha valaki tudja hogyan kell pull-requestet csinálni, akkor nyugodtan csinálhat, és én szívesen mergelem. Egyenlőre lusta vagyok hozzá leírást készíteni.
+
+####<a href="" name="6" id="6" />Kapcsolat
+
+Ha bármi kérdésed, ötleted, problémád van írj a bmejegyzet (kukac) gmail.com címre
 
